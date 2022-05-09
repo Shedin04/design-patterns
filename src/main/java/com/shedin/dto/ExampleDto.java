@@ -1,4 +1,4 @@
-package dto;
+package com.shedin.dto;
 
 public class ExampleDto {
 
